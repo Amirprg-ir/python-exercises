@@ -38,7 +38,7 @@ python-exercises/
 ## 🚀 How to Use  
 1️⃣ Clone the repository:  
 ```bash
-git clone https://github.com/YourUsername/python-exercises.git
+git clone https://github.com/Amirprg-ir/python-exercises.git
 ```  
 2️⃣ Navigate to the project folder:  
 ```bash
